@@ -26,4 +26,4 @@ docker run -d \
     -e SERVER_SAVE_INTERVAL="180.000000" \
     -e SERVER_STATS_INTERVAL="31536000" \
     -e SERVER_CROSSPLAY="true" \
-    toetje585/arch-wine-fs22
+    bayota/fs22
