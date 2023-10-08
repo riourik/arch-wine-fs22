@@ -31,5 +31,5 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_WINE_ARCH_FS22 }}
-          repository: toetje585/arch-wine-fs22
+          repository: bayota/fs22
           readme: "./README.md"
