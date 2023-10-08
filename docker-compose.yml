@@ -1,6 +1,6 @@
 services:
   arch-wine-fs22:
-    image: toetje585/arch-wine-fs22:latest
+    image: bayota/fs22:latest
     container_name: arch-wine-fs22
     environment:
       - VNC_PASSWORD=<your vnc password>
